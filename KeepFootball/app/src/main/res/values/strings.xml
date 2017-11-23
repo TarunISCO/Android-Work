@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Keep Football</string>
+    <string name="title_team_A">Team A</string>
+    <string name="title_team_B">Team B</string>
+    <string name="goal_button_text">Goal</string>
+    <string name="yellow_card_button_text">Yellow Card</string>
+    <string name="red_card_button_text">Red Card</string>
+    <string name="reset_button_text">Reset</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="goal_text_size">56sp</dimen>
+    <dimen name="team_header_font_size">14sp</dimen>
+    <dimen name="card_text_size">20sp</dimen>
+</resources>

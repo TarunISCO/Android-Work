@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Explore Ahmadabad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotel_hyatt_name">Hyatt Regency</string>
+    <string name="hotel_hyatt_description">This Hyatt is efficiently run with superior infra and the latest conveniences. Special mention: The Chinese restaurant has a brilliant team of chefs under Executive Chef Li. </string>
+    <string name="hotel_hyatt_address">17/A, Ashram Rd, Shreyas Colony, Usmanpura, Ahmedabad, Gujarat 380014</string>
+    <string name="hotel_courtyard_name">Courtyard</string>
+    <string name="hotel_courtyard_description">Great stay here for so many reasons: Staff always thinking about guests needs. They balance friendliness and professionalism perfectly. Always happy to accommodate special requests. Nothing is too much trouble. The food in all 3 restaurants is fantastic and chef will prepare anything you crave, great when you\'ve been away from home for a long time.</string>
+    <string name="hotel_courtyard_address">Surya Prakash Complex, Ramdevnagar Cross Road, Satellite Rd, Ramdev Nagar, Ahmedabad, Gujarat 380015</string>
+    <string name="hotel_narayani_name">Narayani Heights</string>
+    <string name="hotel_narayani_description">The rooms are very clean and wide and hotel staff is very polite. Services provided are very good and breakfast was varied. After a day in the chaotic city of Ahmedabad, you feel relieved to go to a quieter location to rest.</string>
+    <string name="hotel_narayani_address">Ahmedabad Airport-Gandhinagar Road, Adjacent Apollo Hospital, Bhat, Gandhinagar, Gujarat 382428</string>
+    <string name="hotel_ummed_name">The Ummed</string>
+    <string name="hotel_ummed_description">Nice warm welcome, no hastles in checking in, excellent staff, reasonably Spacious Rooms, Calm atmosphere, nice spread of breakfast with good taste, prompt service, nice lawn by the side of parking.. This is what the property offers...makes the stay quite comfortable.</string>
+    <string name="hotel_ummed_address">Airport Circle, Ahmedabad, Gujarat 382475</string>
+
+
+    <string name="food_barbeque_name">Barbeque Nation</string>
+    <string name="food_barbeque_description">The wood-and-brick look of Barbeque Nation, with the grills set into the centre of each table, together with the offerings, has made Barbeque Nation synonymous with kebabs and other grilled starters.</string>
+    <string name="food_barbeque_address">Shop No.3, Near Mile Stone Complex, Shivalik 3, Drive In Rd, Ahmedabad, Gujarat 380053</string>
+
+    <string name="food_rajwadu_name">Rajwadu</string>
+    <string name="food_rajwadu_description">Gujurati and Indian dishes are served in a space designed to resemble a traditional village.</string>
+    <string name="food_rajwadu_address">Nr. Jivraj Tolnaka, Behind Ambaji Temple, Malav Talav, Ahmedabad, Gujarat</string>
+
+    <string name="food_agashiye_name">Agashiye</string>
+    <string name="food_agashiye_description">Terrace restaurant at a 1920s hotel serving traditional Gujarati dishes and thalis.</string>
+    <string name="food_agashiye_address">The House of MG, Opp. Sidi Saiyad Jali, Lal Darwaja, Ahmedabad, Gujarat 380001</string>
+
+    <string name="food_vishala_name">Vishala</string>
+    <string name="food_vishala_description">Stylishly understated outdoor dining from a menu of classic village sharing platters.</string>
+    <string name="food_vishala_address">Opp. Tol Naka, Vasna Road, Sanklit Nagar, Juhapura, Ahmedabad, Gujarat 380055</string>
+
+    <string name="shop_laldarwaja_name">Lal Darwaja Market</string>
+    <string name="shop_laldarwaja_description">With lots of hawkers selling various items from clothes to electronics items, Lal Darwaza is crowded yet one of the most famous markets of Ahmedabad.\nSharpen your bargaining skills and shop to your heart\'s content. You can eat variety of local food in the area like Pani puri, Samosa, Dhokla, various PAN, Dhosa as Lal Bazar is the most popular food street too. Just follow some easy safty tips to avoid any unpleasant incident in the market.</string>
+    <string name="shop_laldarwaja_address">Lal Darwaja, Ahmedabad, Gujarat 380001</string>
+
+    <string name="shop_alphaone_name">Alpha One Mall</string>
+    <string name="shop_alphaone_description">Best mall of Ahmedabad. all the big brands are there for shopping. Nice food court, gaming zone, movie screens. You can enjoy all these things in one place.</string>
+    <string name="shop_alphaone_address">Plot No-216, Nr. Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat 380054</string>
+
+    <string name="shop_sindhi_name">Sindhi Market</string>
+    <string name="shop_sindhi_description">You can get all your needful items in one place at very reasonable prices. Products ranging from sarees to bed sheets and dress materials to handicrafts and footwear are available all in one marketplace. Buy several items for your near and dear ones at one place cheap and reasonable prices. The quality of the materials is good and recommendable.</string>
+    <string name="shop_sindhi_address">Sindhi Market, Revdi Bazar, Kalupur, Ahmedabad, Gujarat 380002</string>
+
+    <string name="shop_himalaya_name">Himalaya Mall</string>
+    <string name="shop_himalaya_description">This lifestyle mall has a number of things for its patrons. Himalaya Mall is a huge shopping mall with a number of branded retail stores along with food and entertainment zones. It is the first mall in the Bhavnagar District.</string>
+    <string name="shop_himalaya_address">Drive in Rod, Nilmani Society, Memnagar, Ahmedabad, Gujarat 380015</string>
+
+    <string name="visit_riverfront_name">Sabarmati Riverfront</string>
+    <string name="visit_riverfront_description">Sabarmati river front, as the name suggests, is an attraction on the banks of river Sabarmati in Ahmedabad. To reach the place you have to drive down from the main road but this road is also pretty wide and clean. There is ample parking available and lot of youngsters could be spotted at this place in the evenings. This place has a beautiful musical fountain and if you reach in time, you can enjoy boating as well.</string>
+    <string name="visit_riverfront_address">Sabarmati Riverfront Walkway East, Hridaya Kunj, Dudeshwar, Ahmedabad, Gujarat 380004</string>
+
+    <string name="visit_ashram_name">Sabarmati Ashram</string>
+    <string name="visit_ashram_description">Sabarmati Ashram (also known as Gandhi Ashram, Harijan Ashram, or Satyagraha Ashram) is located in the Sabarmati suburb of Ahmedabad, Gujarat, adjoining the Ashram Road, on the banks of the River Sabarmati, four miles from the town hall. This was one of the residences of Mohandas Karamchand Gandhi, generally called Mahatma Gandhi, who lived there for about twelve years along with his wife, Kasturba Gandhi.</string>
+    <string name="visit_ashram_address">Gandhi Smarak Sangrahalaya, Hridaya Kunj, Old Wadaj, Ahmedabad, Gujarat 380027</string>
+
+    <string name="visit_kankaria_name">Kankaria Lake</string>
+    <string name="visit_kankaria_description">Kankaria is a landmark in itself in Ahmedabad. First thing you notice is the sheer size of the lake and then the beautiful landscaping done every where. This place is is as colorful and lively in the evening as the culture of Gujarat. Seems like the entire city is here, kids, adults and the elderly all have something to look forward to.</string>
+    <string name="visit_kankaria_address">Ahmadabad, Gujarat</string>
+
+    <string name="visit_akshardham_name">Akshardham Mandir</string>
+    <string name="visit_akshardham_description">Swaminarayan Akshardham in Gandhinagar, Gujarat is a large Hindu temple complex inspired by Pramukh Swami, the former spiritual head of BAPS Swaminarayan Sanstha.</string>
+    <string name="visit_akshardham_address">Sector 20,J Road, Gandhinagar, Gujarat 382020</string>
+
+    <string name="tab_item_1">Visits</string>
+    <string name="tab_item_2">Dine</string>
+    <string name="tab_item_3">Shopping</string>
+    <string name="tab_item_4">Stay</string>
+
+</resources>

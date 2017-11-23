@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OCC</string>
+    <string name="description">Ozone Coffee Cafe, a part of Ozone Private Limited, is India\'s favourite hangout for coffee and conversations. Popularly known as OCC, we strive to provide the best experience to our guests. Our coffees are sourced from thousands of small coffee planters, who made us who we are today and we\'re glad to be a part of their lives.</string>
+    <string name="title">Ozone Coffee Cafe</string>
+    <string name="address">Address : 131 Infocity, Gandhinagar</string>
+    <string name="website">Website : ozonecc.in</string>
+    <string name="contact">Contact : 2462680</string>
+    <string name="timings">Timings : 9 AM to 11 PM</string>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:fillViewport="false">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background">
+
+        <ImageView
+            android:id="@+id/ozonecoffe"
+            android:src="@drawable/coffee"
+            android:scaleType="centerCrop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_below="@id/ozonecoffe"
+            android:paddingLeft="16dp"
+            android:paddingTop="2dp"
+            android:textColor="@color/textcolor"
+            android:textSize="@dimen/title_font_size"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:text="@string/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_below="@id/title"
+            android:background="@color/descbackground"
+            android:textSize="@dimen/normal_font_size"
+            android:textColor="@color/textcolor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textStyle="bold|italic"
+            android:text="@string/description" />
+
+        <TextView
+            android:id="@+id/address"
+            android:layout_below="@id/description"
+            android:paddingLeft="16dp"
+            android:paddingTop="8dp"
+            android:textColor="@color/textcolor"
+            android:textSize="@dimen/normal_font_size"
+            android:text="@string/address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/website"
+            android:layout_below="@id/address"
+            android:paddingLeft="16dp"
+            android:paddingTop="0dp"
+            android:textColor="@color/textcolor"
+            android:textSize="@dimen/normal_font_size"
+            android:text="@string/website"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contact"
+            android:layout_below="@id/website"
+            android:paddingLeft="16dp"
+            android:textColor="@color/textcolor"
+            android:textSize="@dimen/normal_font_size"
+            android:text="@string/contact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/timings"
+            android:layout_below="@id/website"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/textcolor"
+            android:textSize="@dimen/normal_font_size"
+            android:text="@string/timings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+</ScrollView>

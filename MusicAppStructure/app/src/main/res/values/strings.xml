@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">T Music</string>
+    <string name="songs_description">SONGS \n This activity displays all the songs stored locally on the device. We can use ContentResolver class to add music to our app. All the imported songs will be stored in arraylist of a custom Song obejct which will store all the details of songs..</string>
+    <string name="artist_description">ARTISTS \n This activity displays list of all the artists along with a drop button which will expand to all the songs of that artist(not implemented). Custom Adapters will be used to display the list in each activity.</string>
+    <string name="albums_description">ALBUMS \n This activity displays list of albums. On click all the songs of that album will be displayed on new screen.  We can use data from the Arraylist of songs created to display the albums list. Same will be used for artist activity.</string>
+    <string name="playlist_description">PLAYLISTS \n This activity displays all the playlist created by the user. Selected songs will be stored in new Arraylist of songs.</string>
+    <string name="now_playing_description">NOW PLAYING \n This activity displays the details of the current song playing (from the Song class object) and this particular space will contain the music control buttons.</string>
+    <string name="paypal">PAYMENT \n This activity will allow to add new songs through the internet and then the payment will be proceeded using PayPal API. For using that API we have to create an Developer Account on Paypal which will give us an AppID or we can use Paypal\'s default AppID for just testing purposes. With help of that AppID we can perform our payment process with PayPal platform.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="body_background">#4696FC</color>
+    <color name="goal_back_color">#37ca15</color>
+    <color name="ycard_back_color">#ffff00</color>
+    <color name="rcard_back_color">#ff0000</color>
+    <color name="divider_color">#B2CEDA</color>
+</resources>
